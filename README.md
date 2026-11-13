@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="banner.jpeg" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hey, I'm Erik 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Programming+Student+@+CBTIS+271;Web+Developer;Always+learning+something+new+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Programming+Student+@+CBTIS+271;Web+Developer;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,9 +11,9 @@
 ### About Me
 - 📍 Cd. Victoria, Tamaulipas, Mexico
 - 🎓 Programming student at **CBTIS 271**
-- 🔭 Currently working on **SICPA**, an intelligent system for the conservation of architectural heritage
+- Currently working on **SICPA**, an intelligent system for the conservation of architectural heritage
 - 🌱 Learning **SQl, React, JS, Html and CSS**
-- 📫 Reach me at:   
+- Reach me at:   
 Email: **aaron14eamm@gmail.com**     
 Social Media:- [![Instagram](https://img.shields.io/badge/Instagram-@aaron__mtzmty-1A1B27?style=for-the-badge&logo=instagram&logoColor=36BCF7)](https://www.instagram.com/aaron_mtzmty/)
 
