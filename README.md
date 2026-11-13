@@ -17,7 +17,9 @@
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,github,vscode" height="48" />
+  <img src="xampp.svg" height="48" title="XAMPP" />
+  <img src="protege.svg" height="48" title="Protégé" />
 </p>
 
 ### Featured Project
